@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "k9Av//3/a+W9hLAyruJvHdwKuRwv8eqKurHmX5FyUTYuskcuGCKynjdvJxyhb31vXEjgrWZd5X8lL9Y3OWsiAw==",
+  "dgSpecHash": "wpS9HOMvzkB82IMC8gznHv6OI91MN+rDr0JriU/gv/7OPjoKvHWJtvPs6BY40i1EGNhxLyPl8pcqpVAOuXptLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\fiska\\Desktop\\projetos\\RPAChallengeInvoiceExtraction\\RPAChallengeInvoiceExtraction\\RPAChallengeInvoiceExtraction\\RPAChallengeInvoiceExtraction.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\fiska\\.nuget\\packages\\ironsoftware.system.drawing\\2023.7.1\\ironsoftware.system.drawing.2023.7.1.nupkg.sha512",
     "C:\\Users\\fiska\\.nuget\\packages\\ironxl.excel\\2023.8.19\\ironxl.excel.2023.8.19.nupkg.sha512",
     "C:\\Users\\fiska\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\selenium.support\\4.10.0\\selenium.support.4.10.0.nupkg.sha512",
     "C:\\Users\\fiska\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
     "C:\\Users\\fiska\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
     "C:\\Users\\fiska\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

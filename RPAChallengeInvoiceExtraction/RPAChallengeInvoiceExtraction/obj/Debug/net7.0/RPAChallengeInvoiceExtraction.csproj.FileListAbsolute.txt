@@ -28,3 +28,4 @@ C:\Users\fiska\Desktop\projetos\RPAChallengeInvoiceExtraction\RPAChallengeInvoic
 C:\Users\fiska\Desktop\projetos\RPAChallengeInvoiceExtraction\RPAChallengeInvoiceExtraction\RPAChallengeInvoiceExtraction\obj\Debug\net7.0\RPAChallengeInvoiceExtraction.pdb
 C:\Users\fiska\Desktop\projetos\RPAChallengeInvoiceExtraction\RPAChallengeInvoiceExtraction\RPAChallengeInvoiceExtraction\obj\Debug\net7.0\RPAChallengeInvoiceExtraction.genruntimeconfig.cache
 C:\Users\fiska\Desktop\projetos\RPAChallengeInvoiceExtraction\RPAChallengeInvoiceExtraction\RPAChallengeInvoiceExtraction\obj\Debug\net7.0\ref\RPAChallengeInvoiceExtraction.dll
+C:\Users\fiska\Desktop\projetos\RPAChallengeInvoiceExtraction\RPAChallengeInvoiceExtraction\RPAChallengeInvoiceExtraction\bin\Debug\net7.0\WebDriver.Support.dll

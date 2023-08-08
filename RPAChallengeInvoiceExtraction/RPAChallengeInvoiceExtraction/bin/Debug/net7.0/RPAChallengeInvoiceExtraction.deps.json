@@ -9,6 +9,7 @@
       "RPAChallengeInvoiceExtraction/1.0.0": {
         "dependencies": {
           "IronXL.Excel": "2023.8.19",
+          "Selenium.Support": "4.10.0",
           "Selenium.WebDriver": "4.10.0",
           "Tesseract": "5.2.0"
         },
@@ -53,6 +54,17 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "13.0.0.0",
             "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Selenium.Support/4.10.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.10.0"
+        },
+        "runtime": {
+          "lib/net6.0/WebDriver.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
           }
         }
       },
@@ -123,6 +135,13 @@
       "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
       "path": "newtonsoft.json/13.0.1",
       "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Selenium.Support/4.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S/7nH+SMiCaut5C6kmMVxq4mCcmvwboPvPqdpx2/Dfwi2O9bFQb+psJC4ZcpvPMg7FCnrC1i6uZW6rthjSo1TQ==",
+      "path": "selenium.support/4.10.0",
+      "hashPath": "selenium.support.4.10.0.nupkg.sha512"
     },
     "Selenium.WebDriver/4.10.0": {
       "type": "package",

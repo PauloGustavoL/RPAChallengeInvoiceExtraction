@@ -62,6 +62,18 @@
           }
         }
       },
+      "Selenium.Support/4.10.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "4.10.0"
+        },
+        "compile": {
+          "lib/net6.0/WebDriver.Support.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/WebDriver.Support.dll": {}
+        }
+      },
       "Selenium.WebDriver/4.10.0": {
         "type": "package",
         "dependencies": {
@@ -218,6 +230,26 @@
         "packageIcon.png"
       ]
     },
+    "Selenium.Support/4.10.0": {
+      "sha512": "S/7nH+SMiCaut5C6kmMVxq4mCcmvwboPvPqdpx2/Dfwi2O9bFQb+psJC4ZcpvPMg7FCnrC1i6uZW6rthjSo1TQ==",
+      "type": "package",
+      "path": "selenium.support/4.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/icon.png",
+        "lib/net45/WebDriver.Support.dll",
+        "lib/net46/WebDriver.Support.dll",
+        "lib/net47/WebDriver.Support.dll",
+        "lib/net48/WebDriver.Support.dll",
+        "lib/net5.0/WebDriver.Support.dll",
+        "lib/net6.0/WebDriver.Support.dll",
+        "lib/netstandard2.0/WebDriver.Support.dll",
+        "lib/netstandard2.1/WebDriver.Support.dll",
+        "selenium.support.4.10.0.nupkg.sha512",
+        "selenium.support.nuspec"
+      ]
+    },
     "Selenium.WebDriver/4.10.0": {
       "sha512": "MvgUaxeLqLOtRnNS+kHzqfOhLO+7ZEukhQMuS7ksQQPA2tGNXWhrRN3PTkTGuKhuodd9JkoZ4eCKVEQF6xPdmA==",
       "type": "package",
@@ -360,6 +392,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "IronXL.Excel >= 2023.8.19",
+      "Selenium.Support >= 4.10.0",
       "Selenium.WebDriver >= 4.10.0",
       "Tesseract >= 5.2.0"
     ]
@@ -412,6 +445,10 @@
           "IronXL.Excel": {
             "target": "Package",
             "version": "[2023.8.19, )"
+          },
+          "Selenium.Support": {
+            "target": "Package",
+            "version": "[4.10.0, )"
           },
           "Selenium.WebDriver": {
             "target": "Package",
